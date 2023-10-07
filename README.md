@@ -4,7 +4,5 @@ _Tel-ran_StartaUni_
 _Tel-ran_StartaUni_
 
 text-1
-
 text-2
-
 text-3
